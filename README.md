@@ -72,11 +72,11 @@ The tasks are organized level-wise (Basic, Intermediate, Advanced) and demonstra
 
 ### 🔹 Level 1 – Basic Tasks
 Run any file using:
-
+```text
 python Level1/calculator.py
 python Level1/number_guessing_game.py
 python Level1/word_counter.py
-
+```
 🔹 Level 2 – Intermediate Tasks
 
 Install required libraries (once):
@@ -84,11 +84,11 @@ Install required libraries (once):
 pip install requests beautifulsoup4
 
 Run the programs:
-
+```text
 python Level2/todo.py
 python Level2/scraper.py
 python Level2/api_integration.py
-
+```
 🔹 Level 3 – Advanced Tasks
 
 Install encryption library (once):
@@ -96,10 +96,10 @@ Install encryption library (once):
 pip install cryptography
 
 Run the programs:
-
+```text
 python Level3/encrypt_decrypt.py
 python Level3/n_queens.py
-
+```
 📌 Notes
 
 All programs are command-line based
